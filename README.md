@@ -1,2 +1,2 @@
-# OJT-Monitoring
+# Class Monitoring
 Project in ITWM-85
